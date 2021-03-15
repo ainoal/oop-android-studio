@@ -6,3 +6,8 @@ Tästä reposta löytyvät viikkotehtävät viikosta 7 alkaen.
     HelloWorld
 * t. 5:
     TextEditor
+
+## Viikko 8
+* t. 1-3:
+    BottleDispenser
+    
